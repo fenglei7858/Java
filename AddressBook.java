@@ -17,15 +17,9 @@
  */
 
 /**
-* Assignment1/Q1, COMP268
 * Class: AddressBook.java
 * Purpose: create an address book.
 * @author: Lei Feng
-* Student ID: 3294132
-* Date: July 19, 2016
-* Version 1.0
-* based on :David J. Eck, Hobart and William Smith Colleges(Version 6.0, June 2011),
-* Introduction to Programming Using Java
 */
 import java.util.Scanner;
 public class AddressBook {
