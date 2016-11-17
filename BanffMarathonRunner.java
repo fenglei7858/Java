@@ -1,42 +1,5 @@
-/* A group of AU friends decide to run the Banff, Alberta, Marathon. Their names, times (marathon
- * completion time in minutes), and number of years participated are given below:
-    1  Elena Brandon  341 1
-    2  Thomas Molson  273 2
-    3  Hamilton Winn  278 5
-    4  Suzie Sarandin  329 7
-    5  Philip Winne  445 9
-    6  Alex Trebok  275 3
-    7  Emma Pivoto  275 4
-    8  John Lenthen  243 1
-    9  James Lean  334 1
-    10 Jane Ostin  412 1
-    11 Emily Car  393 4
-    12 Daniel Hamshire 299 4
-    13 Neda Bazdar  343 3
-    14 Aaron Smith  317 6
-    15 Kate Hen  265 8
- * Computer Science 268: Introduction to Programming (Java) Page 4 of 11
- * Extend the AddressBook class from Problem 1 to store the additional data. Now, write a method
- * to find the fastest runner. Print the name, address, and his/her time (in minutes) on three separate
- * lines.
- * Find the second fastest runner. Print the name, address, his/her time (in minutes), and the
- * difference in time with the fastest runner.
- * Compute the average time of completion taken by these runners.
- * Finally, print the name and number of years participated for each runner if the runner’s time of
- * completion is equal to or better than the average time of completion.
-
- */
-
 /**
-* Assignment1/Q4, COMP268
-* Class: BanffMarathonRunner.java
-* Purpose:to find the fastest runner by using the AddressBook class and a new method
-* @author: Lei Feng
-* Student ID: 3294132
-* Date: July 19, 2016
-* Version 1.0
-* based on :David J. Eck, Hobart and William Smith Colleges(Version 6.0, June 2011),
-* Introduction to Programming Using Java
+*@author Lei Feng
 */
 public class BanffMarathonRunner extends AddressBook {
     //declaration
