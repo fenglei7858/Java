@@ -1,33 +1,6 @@
-/*
-“The Pythagorean Theorem relates the lengths of the three sides of any right triangle. The legs of a
-right triangle (the two sides of the triangle that meet at the right angle) are customarily labelled as
-having lengths “a” and “b”, and the hypotenuse (the long side of the triangle, opposite the right
-angle) is labelled as having length “c”. The lengths are related by the following equation: a ^2 + b^2
-= c ^2.” – refer to http://www.purplemath.com/modules/pythagthm.htm for details.
-This equation allows you to find the length of a side of a right triangle when they’ve given you the
-lengths for the other two sides, and, going in the other direction, allows you to determine if a
-triangle is a right triangle when they’ve given you the lengths for all three sides.
-This equation can alternatively be written as c = sqrt of (a^2+b^2). You can find the square root of a
-number by calling the standard function Math.sqrt. For example, the statement double y =
-Math.sqrt(x) sets y to the square root of x.
-I. Given the right triangles described below, write a program to compute the lengths of the
-remaining sides using a program.
-a. a = 48 and c = 80
-b. a = 84 and c = 91
-II. Determine if the following triangles are right-angled triangles:
-a. a = 45, b = 55, and c = 75
-b. a = 28, b = 45, and c = 5
-*/
+
 /**
-* Assignment1/Q6, COMP268
-* Class:Triangle.java
-* Purpose: to modify the given program using the given specifications 
-* @author: Lei Feng
-* Student ID: 3294132
-* Date: July 19, 2016
-* Version 1.0
-* based on :David J. Eck, Hobart and William Smith Colleges(Version 6.0, June 2011),
-* Introduction to Programming Using Java
+*@author Lei Feng
 */
 public class Triangle {   
     //declaration
