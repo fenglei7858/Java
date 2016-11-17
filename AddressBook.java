@@ -1,25 +1,5 @@
-/*
- * Create a class named AddressBokk that has the following field names:
- * firstName, middleName, lastName, homeAddress, businessPhone, homePhone
- * cellPhone, skypeId, facebookId, and personalWebSite
- * Use appropriate data types to store the values for these fields in AddressBook objects.
- * Create appropriate get and set methods to retrieve and assign values to these names. for example,
- * getMiddleName(viveAddressBook) should return the middle name of the person Vive. Similarly,
- * vive.setPersonalWebSite(url) should set the personal website of the person Vive to the specified URL
- * object.
- * 
- * Using the get and set methods, create a comparison method compareNames(name1, name2) that compares the
- * first, middle and last names of string name1 and name2. Assume that name1 and name2 follow the following
- * format: "FirstName M. LastName".
- * 
- * Test your program for cdorrect, partially correct (e.g. names without the middleName) and incorrect inputs 
- * (e.g. phone number containing special characters).
- */
-
 /**
-* Class: AddressBook.java
-* Purpose: create an address book.
-* @author: Lei Feng
+*@author Lei Feng
 */
 import java.util.Scanner;
 public class AddressBook {
