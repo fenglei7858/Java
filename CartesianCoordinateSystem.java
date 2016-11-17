@@ -1,25 +1,9 @@
 
+/**
+*@author Lei Feng
+*/
 import java.util.Scanner;
 
-/*
- * Write a program that prompts the user to enter two points (x1, y1) and (x2, y2).
- * Calculate anddisplay the distance between the two points using the formula below. Round the answer up to 2
- * decimal points. You can use Math.pow(a,0.5) to compute the square root of an expression.
- * Math.pow() returns a double.
- */
-
-/**
-* Assignment1/Q3, COMP268
-* Class:CartesianCoordinateSystem.java
-* Purpose: using math.pow() code to create a mathod to 
-*  calculate and display the distance between the two points(x1,x2),(y1,y2)
-* @author: Lei Feng
-* Student ID: 3294132
-* Date: July 19, 2016
-* Version 1.0
-* based on :David J. Eck, Hobart and William Smith Colleges(Version 6.0, June 2011),
-* Introduction to Programming Using Java
-*/
 public class CartesianCoordinateSystem {
 
 	/**
