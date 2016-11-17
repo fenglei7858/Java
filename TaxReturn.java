@@ -1,24 +1,6 @@
-/*
-I. Add a new status – SingleParent – where the tax is computed as a SINGLE but with a further
-reduction of $5000 per child.
-* 
-II. Add a new tax condition – if the income is greater than $249,999 for SINGLE, then add a tax of
-25% on income amount above $150,000; if the income is greater than $349,999 for MARRIED,
-then add a tax of 35% on income amount above $200,000.
-* 
-III. Unknown status – if the status doesn’t belong to SINGLE or MARRIED or SINGLE_PARENT, then
-compute a 33% tax on the income
-*/
+
 /**
-* Assignment1/Q10, COMP268
-* Class:TaxReturn.java
-* Purpose: to modify the given program using the given specifications 
-* @author: Lei Feng
-* Student ID: 3294132
-* Date: July 19, 2016
-* Version 1.0
-* based on :David J. Eck, Hobart and William Smith Colleges(Version 6.0, June 2011),
-* Introduction to Programming Using Java
+*@author Lei Feng
 */
 import java.util.Scanner;
 
